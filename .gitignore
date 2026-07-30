@@ -162,6 +162,7 @@ uploads/
 
 # Machine Learning / YOLO
 *.pt
+!backend/model/best.pt
 *.onnx
 runs/
 **/runs/
