@@ -250,7 +250,7 @@ app.add_middleware(
 # ================= YOLO =================
 
 
-model = YOLO("../model/best.pt")
+model = YOLO("model/best.pt")
 
 
 
